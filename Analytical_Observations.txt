@@ -1,0 +1,6 @@
+Observations:
+
+1. Based on the scattered chart, The number of drivers are more in Urban areas. Fares are less than 30$ for most of the rides. And number of rides are generally between 15 to 35.
+2. Based on the scattered chart, The number of drivers are more in rural areas are very less. Fares are significantly more and there are less number of ride requests.
+3. Based on the scattered chart, The fares and number of rides are more or less moderate in suburban areas.
+4. Based on pie charts, Urban areas contribute to maximum rides(68.4%), more drivers(80.9%) and highest revenue(62.7%)
